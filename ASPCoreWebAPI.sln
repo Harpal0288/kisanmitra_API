@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPCoreWebAPI", "ASPCoreWebAPI\ASPCoreWebAPI.csproj", "{4791B357-F0FC-476D-89C3-A8AC7718830E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nunitTestingFarmerEquipment.Tests", "nunitTestingFarmerEquipment.Tests\nunitTestingFarmerEquipment.Tests.csproj", "{F79AE07D-2F9A-46B0-AE8A-30C6A8F65772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4791B357-F0FC-476D-89C3-A8AC7718830E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4791B357-F0FC-476D-89C3-A8AC7718830E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4791B357-F0FC-476D-89C3-A8AC7718830E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4791B357-F0FC-476D-89C3-A8AC7718830E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79AE07D-2F9A-46B0-AE8A-30C6A8F65772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79AE07D-2F9A-46B0-AE8A-30C6A8F65772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79AE07D-2F9A-46B0-AE8A-30C6A8F65772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79AE07D-2F9A-46B0-AE8A-30C6A8F65772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43405734-9D68-4906-A3CC-A1D98E2ED0B8}
+	EndGlobalSection
+EndGlobal
